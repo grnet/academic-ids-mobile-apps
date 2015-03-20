@@ -1,0 +1,11 @@
+//
+// Prefix header for all source files of the 'Offers Check' target in the 'Offers Check' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import "Offers_CheckAppConstants.h" 
+#endif
+
+//#define NSLog(args, ...)

@@ -1,0 +1,962 @@
+TAcademic ID Ιnspector
+v7
+r0
+t400255871.555763
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/Info.plist" AcademicID_Check-Info.plist
+cCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/MainWindow.xib"
+cCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/AcademicID_CheckViewController.xib"
+cCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.xib"
+cCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ResultCell.xib"
+cCpResource "build/Debug-iphonesimulator/AcadID Check.app/search.png" search.png
+cCpResource "build/Debug-iphonesimulator/AcadID Check.app/settings_gear.png" settings_gear.png
+cCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.xib"
+cCpResource "build/Debug-iphonesimulator/AcadID Check.app/zbar-back.png" ZBarSDK/Resources/zbar-back.png
+cCpResource "build/Debug-iphonesimulator/AcadID Check.app/zbar-help.html" ZBarSDK/Resources/zbar-help.html
+cCpResource "build/Debug-iphonesimulator/AcadID Check.app/zbar-helpicons.png" ZBarSDK/Resources/zbar-helpicons.png
+cCpResource "build/Debug-iphonesimulator/AcadID Check.app/zbar-samples.png" ZBarSDK/Resources/zbar-samples.png
+cCpResource "build/Debug-iphonesimulator/AcadID Check.app/Icon.png" Icon.png
+cCpResource "build/Debug-iphonesimulator/AcadID Check.app/Icon@2x.png" Icon@2x.png
+cCpResource "build/Debug-iphonesimulator/AcadID Check.app/Icon-Small.png" Icon-Small.png
+cCpResource "build/Debug-iphonesimulator/AcadID Check.app/Icon-Small@2x.png" Icon-Small@2x.png
+cCpResource "build/Debug-iphonesimulator/AcadID Check.app/camera.png" camera.png
+cCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ScanOverlayViewController.xib"
+cProcessPCH /var/folders/Lx/LxGi9FMQGWOuX5VCrtRNz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AcademicID_Check_Prefix-berphjmqovrejwgwntynkzdreyxx/AcademicID_Check_Prefix.pch.gch AcademicID_Check_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/main.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckAppDelegate.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckViewController.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckView2Controller.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/ResultCell.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ResultCell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckView3Controller.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/ScanOverlayViewController.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ScanOverlayViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcadID Check" normal i386
+cGenerateDSYMFile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app.dSYM" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcadID Check"
+cTouch "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004CC122E10000000000075FE0
+t1287725793
+s483296
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004CC129090000000000151F20
+t1287727369
+s1384224
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004CC121DB00000000000004FE
+t1287725531
+s1278
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004CC127FC0000000000063DD0
+t1287727100
+s409040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004CC122DE0000000000018050
+t1287725790
+s98384
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/assert.h
+c000000004CB3E4860000000000000DCB
+t1286857862
+s3531
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
+c000000004CB3E48600000000000040AC
+t1286857862
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libiconv.dylib
+c000000004AD4F6DB00000000000049DC
+t1255470811
+s18908
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/NSBundle+YAJL.h
+c00000000506F42EE000000000000090E
+t1349468910
+s2318
+i"YAJLParser.h"
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/NSObject+YAJL.h
+c00000000506F42EE0000000000001525
+t1349468910
+s5413
+i"YAJLGen.h"
+i"YAJLParser.h"
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/YAJL.h
+c00000000506F42EE0000000000001A1E
+t1349468910
+s6686
+i"YAJLParser.h"
+i"YAJLDocument.h"
+i"YAJLGen.h"
+i"NSObject+YAJL.h"
+i"NSBundle+YAJL.h"
+i<YAJL/YAJL.h>
+i<YAJLiOS/YAJL.h>
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/YAJLDocument.h
+c00000000506F42EE0000000000001C2B
+t1349468910
+s7211
+i"YAJLParser.h"
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/YAJLGen.h
+c00000000506F42EE000000000000102E
+t1349468910
+s4142
+i"yajl_gen.h"
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/YAJLParser.h
+c00000000506F42EE00000000000015D9
+t1349468910
+s5593
+i"yajl_parse.h"
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/yajl_common.h
+c00000000506F42EE0000000000000C3B
+t1349468910
+s3131
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/yajl_gen.h
+c00000000506F42EE0000000000001C28
+t1349468910
+s7208
+i"yajl_common.h"
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/yajl_parse.h
+c00000000506F42EE0000000000002132
+t1349468910
+s8498
+i"yajl_common.h"
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/YAJLiOS
+c00000000506F42EE00000000000AF6BC
+t1349468910
+s718524
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/AcademicID_CheckViewController.xib
+c00000000522B31D000000000000070EA
+t1378562512
+s28906
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/AcademicID_Check_Prefix.pch
+c0000000051C5B45C00000000000000DE
+t1371911260
+s222
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"ZBarSDK.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ResultCell.h
+c00000000511EA3EC000000000000019B
+t1360962540
+s411
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ResultCell.m
+c00000000511EA3F800000000000002DA
+t1360962552
+s730
+i"ResultCell.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ScanOverlayViewController.h
+c0000000051C7FA360000000000000165
+t1372060214
+s357
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ScanOverlayViewController.m
+c0000000051C7FF4200000000000005FB
+t1372061506
+s1531
+i"ScanOverlayViewController.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckAppDelegate.h
+c00000000514CAA840000000000000401
+t1363978884
+s1025
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckAppDelegate.m
+c00000000514CAFFC0000000000000CFD
+t1363980284
+s3325
+i"AcademicID_CheckAppDelegate.h"
+i"AcademicID_CheckViewController.h"
+i"AcademicID_CheckView2Controller.h"
+i"AcademicID_CheckView3Controller.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.h
+c0000000051C829E000000000000004B3
+t1372072416
+s1203
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.m
+c0000000051E11CE60000000000002DD1
+t1373707494
+s11729
+i"AcademicID_CheckView2Controller.h"
+i"AcademicID_CheckAppDelegate.h"
+i"YAJLiOS/YAJL.h"
+i"ResultCell.h"
+i"ScanOverlayViewController.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.xib
+c0000000051E037EA0000000000009E7C
+t1373648874
+s40572
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.h
+c00000000514CAC7C0000000000000130
+t1363979388
+s304
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.m
+c00000000514CAD4000000000000006AF
+t1363979584
+s1711
+i"AcademicID_CheckView3Controller.h"
+i"AcademicID_CheckAppDelegate.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.xib
+c00000000522B31C80000000000008174
+t1378562504
+s33140
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckViewController.h
+c00000000511F49C80000000000000219
+t1361005000
+s537
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckViewController.m
+c00000000511F4C3400000000000008C6
+t1361005620
+s2246
+i"AcademicID_CheckViewController.h"
+i"AcademicID_CheckAppDelegate.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Icon-Small.png
+c0000000051C5A22E0000000000000FCE
+t1371906606
+s4046
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Icon-Small@2x.png
+c0000000051C5A26000000000000019B0
+t1371906656
+s6576
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Icon.png
+c0000000051C5A030000000000000195A
+t1371906096
+s6490
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Icon@2x.png
+c0000000051C5A1B40000000000003831
+t1371906484
+s14385
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/MainWindow.xib
+c00000000514D564E00000000000080BD
+t1364022862
+s32957
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ResultCell.h
+c00000000511EA3EC000000000000019B
+t1360962540
+s411
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ResultCell.xib
+c0000000051E038A600000000000051A1
+t1373649062
+s20897
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ScanOverlayViewController.h
+c0000000051C7FA360000000000000165
+t1372060214
+s357
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ScanOverlayViewController.xib
+c0000000051C7FA640000000000004E78
+t1372060260
+s20088
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/ZBarCameraSimulator.h
+c000000004E40215E000000000000066A
+t1312825694
+s1642
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/ZBarCaptureReader.h
+c000000004E40215E0000000000000EA0
+t1312825694
+s3744
+i<CoreGraphics/CoreGraphics.h>
+i"ZBarImageScanner.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/ZBarHelpController.h
+c000000004E40215E00000000000007B2
+t1312825694
+s1970
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/ZBarImage.h
+c000000004E40215E0000000000000905
+t1312825694
+s2309
+i<UIKit/UIKit.h>
+i"zbar.h"
+i"ZBarSymbol.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/ZBarImageScanner.h
+c000000004E40215E00000000000006AB
+t1312825694
+s1707
+i<Foundation/Foundation.h>
+i"zbar.h"
+i"ZBarImage.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/ZBarReaderController.h
+c000000004E40215E000000000000145B
+t1312825694
+s5211
+i<UIKit/UIKit.h>
+i"ZBarImageScanner.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/ZBarReaderView.h
+c000000004E40215E00000000000011E1
+t1312825694
+s4577
+i<UIKit/UIKit.h>
+i"ZBarImageScanner.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/ZBarReaderViewController.h
+c000000004E40215E00000000000015ED
+t1312825694
+s5613
+i<UIKit/UIKit.h>
+i"ZBarReaderController.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/ZBarSDK.h
+c000000004E40215E0000000000000555
+t1312825694
+s1365
+i"zbar.h"
+i"ZBarSymbol.h"
+i"ZBarImage.h"
+i"ZBarImageScanner.h"
+i"ZBarReaderView.h"
+i"ZBarReaderViewController.h"
+i"ZBarReaderController.h"
+i"ZBarCaptureReader.h"
+i"ZBarHelpController.h"
+i"ZBarCameraSimulator.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/ZBarSymbol.h
+c000000004E40215E0000000000000957
+t1312825694
+s2391
+i<Foundation/Foundation.h>
+i<CoreGraphics/CoreGraphics.h>
+i"zbar.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/zbar.h
+c000000004E40215E000000000000D1C6
+t1312825694
+s53702
+i"zbar/Exception.h"
+i"zbar/Decoder.h"
+i"zbar/Scanner.h"
+i"zbar/Symbol.h"
+i"zbar/Image.h"
+i"zbar/ImageScanner.h"
+i"zbar/Video.h"
+i"zbar/Window.h"
+i"zbar/Processor.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/zbar/Decoder.h
+c000000004E40215E0000000000001630
+t1312825694
+s5680
+i<string>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/zbar/Exception.h
+c000000004E40215E0000000000001210
+t1312825694
+s4624
+i<exception>
+i<new>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/zbar/Image.h
+c000000004E40215E00000000000021B5
+t1312825694
+s8629
+i<assert.h>
+i<iterator>
+i"Symbol.h"
+i"Exception.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/zbar/ImageScanner.h
+c000000004E40215E0000000000000EAB
+t1312825694
+s3755
+i"Image.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/zbar/Processor.h
+c000000004E40215E0000000000001B3B
+t1312825694
+s6971
+i"Exception.h"
+i"Image.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/zbar/Scanner.h
+c000000004E40215E0000000000001065
+t1312825694
+s4197
+i<stdio.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/zbar/Symbol.h
+c000000004E40215E000000000000307A
+t1312825694
+s12410
+i<stdlib.h>
+i<string>
+i<ostream>
+i<assert.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/zbar/Video.h
+c000000004E40215E000000000000115D
+t1312825694
+s4445
+i"Image.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Headers/ZBarSDK/zbar/Window.h
+c000000004E40215E0000000000000E9D
+t1312825694
+s3741
+i"Image.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Resources/zbar-back.png
+c000000004E40215E000000000000013F
+t1312825694
+s319
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Resources/zbar-help.html
+c000000004E40215E0000000000000D37
+t1312825694
+s3383
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Resources/zbar-helpicons.png
+c000000004E40215E00000000000047AE
+t1312825694
+s18350
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Resources/zbar-samples.png
+c000000004E40215E000000000000049D
+t1312825694
+s1181
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/libzbar.a
+c000000004E40215E00000000002E5F0C
+t1312825694
+s3038988
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcadID Check.LinkFileList
+c00000000522B33FE00000000000004C6
+t1378563070
+s1222
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckAppDelegate.o
+t1378563070
+s63304
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckView2Controller.o
+t1378563070
+s99696
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckView3Controller.o
+t1378563070
+s44708
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckViewController.o
+t1378563070
+s52144
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/ResultCell.o
+t1378563070
+s40388
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/ScanOverlayViewController.o
+t1378563070
+s39432
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/main.o
+t1378563070
+s6324
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app
+t1378563070
+s32768
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app.dSYM
+t1378563070
+s32768
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcadID Check
+t1378563070
+s412420
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcademicID_CheckView2Controller.nib
+t1378563070
+s3490
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcademicID_CheckView3Controller.nib
+t1378563070
+s2568
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcademicID_CheckViewController.nib
+t1378563070
+s2649
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/Icon-Small.png
+t1378563070
+s4046
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/Icon-Small@2x.png
+t1378563070
+s6576
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/Icon.png
+t1378563070
+s6490
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/Icon@2x.png
+t1378563070
+s14385
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/Info.plist
+t1378563070
+s706
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/MainWindow.nib
+t1378563070
+s1371
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/PkgInfo
+t1378563070
+s8
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/ResultCell.nib
+t1378563070
+s1943
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/ScanOverlayViewController.nib
+t1378563070
+s1024
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/camera.png
+t1378563070
+s11835
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/search.png
+t1378563070
+s10090
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/settings_gear.png
+t1378563070
+s2525
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/zbar-back.png
+t1378563070
+s319
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/zbar-help.html
+t1378563070
+s3383
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/zbar-helpicons.png
+t1378563070
+s18350
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/zbar-samples.png
+t1378563070
+s1181
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/camera.png
+c0000000051C5A3C20000000000002E3B
+t1371907010
+s11835
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/main.m
+c0000000050AFBF980000000000000177
+t1353695128
+s375
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/search.png
+c00000000513AED36000000000000276A
+t1362816310
+s10090
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/settings_gear.png
+c00000000514C756600000000000009DD
+t1363965286
+s2525
+
+N/var/folders/Lx/LxGi9FMQGWOuX5VCrtRNz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AcademicID_Check_Prefix-berphjmqovrejwgwntynkzdreyxx/AcademicID_Check_Prefix.pch.gch
+t1378563071
+s16023088
+
+NAcademicID_Check-Info.plist
+c0000000051C5A2900000000000000440
+t1371906704
+s1088
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies400255870#400255870#0(0"0(0#1#0"8614979488#0"0#
+
+CCompileC "build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckAppDelegate.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s400255871.299084
+e400255871.389815
+r1
+xCompileC
+xbuild/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckAppDelegate.o
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckAppDelegate.m400255871#400255871#0(0"0(0#0#86"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckAppDelegate.m8614510208#2828"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-generated-files.hmap" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-own-target-headers.hmap" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-all-target-headers.hmap" -iquote "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-project-headers.hmap" "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator" -F../.. "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/../.." -F/Volumes/SHARKOON500/p2/app1 "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/include" -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/cpp/core/src -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/actions -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/parsedResults -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/resultParsers "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/DerivedSources/i386" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/DerivedSources" -include /var/folders/Lx/LxGi9FMQGWOuX5VCrtRNz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AcademicID_Check_Prefix-berphjmqovrejwgwntynkzdreyxx/AcademicID_Check_Prefix.pch -c "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckAppDelegate.m" -o "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckAppDelegate.o"0#
+
+CCompileC "build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckView2Controller.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s400255871.300585
+e400255871.425252
+r1
+xCompileC
+xbuild/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckView2Controller.o
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.m400255871#400255871#0(0"0(0#0#90"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.m8613090080#2836"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-generated-files.hmap" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-own-target-headers.hmap" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-all-target-headers.hmap" -iquote "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-project-headers.hmap" "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator" -F../.. "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/../.." -F/Volumes/SHARKOON500/p2/app1 "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/include" -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/cpp/core/src -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/actions -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/parsedResults -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/resultParsers "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/DerivedSources/i386" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/DerivedSources" -include /var/folders/Lx/LxGi9FMQGWOuX5VCrtRNz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AcademicID_Check_Prefix-berphjmqovrejwgwntynkzdreyxx/AcademicID_Check_Prefix.pch -c "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.m" -o "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckView2Controller.o"0#
+
+CCompileC "build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckView3Controller.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s400255871.302722
+e400255871.379649
+r1
+xCompileC
+xbuild/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckView3Controller.o
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.m400255871#400255871#0(0"0(0#0#90"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.m8607542432#2836"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-generated-files.hmap" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-own-target-headers.hmap" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-all-target-headers.hmap" -iquote "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-project-headers.hmap" "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator" -F../.. "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/../.." -F/Volumes/SHARKOON500/p2/app1 "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/include" -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/cpp/core/src -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/actions -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/parsedResults -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/resultParsers "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/DerivedSources/i386" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/DerivedSources" -include /var/folders/Lx/LxGi9FMQGWOuX5VCrtRNz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AcademicID_Check_Prefix-berphjmqovrejwgwntynkzdreyxx/AcademicID_Check_Prefix.pch -c "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.m" -o "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckView3Controller.o"0#
+
+CCompileC "build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckViewController.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s400255871.299799
+e400255871.380039
+r1
+xCompileC
+xbuild/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckViewController.o
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckViewController.m400255871#400255871#0(0"0(0#0#89"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckViewController.m8614326944#2834"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-generated-files.hmap" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-own-target-headers.hmap" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-all-target-headers.hmap" -iquote "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-project-headers.hmap" "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator" -F../.. "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/../.." -F/Volumes/SHARKOON500/p2/app1 "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/include" -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/cpp/core/src -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/actions -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/parsedResults -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/resultParsers "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/DerivedSources/i386" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/DerivedSources" -include /var/folders/Lx/LxGi9FMQGWOuX5VCrtRNz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AcademicID_Check_Prefix-berphjmqovrejwgwntynkzdreyxx/AcademicID_Check_Prefix.pch -c "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckViewController.m" -o "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcademicID_CheckViewController.o"0#
+
+CCompileC "build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/ResultCell.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ResultCell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s400255871.301673
+e400255871.379159
+r1
+xCompileC
+xbuild/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/ResultCell.o
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ResultCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ResultCell.m400255871#400255871#0(0"0(0#0#72"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ResultCell.m8611108512#2797"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-generated-files.hmap" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-own-target-headers.hmap" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-all-target-headers.hmap" -iquote "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-project-headers.hmap" "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator" -F../.. "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/../.." -F/Volumes/SHARKOON500/p2/app1 "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/include" -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/cpp/core/src -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/actions -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/parsedResults -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/resultParsers "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/DerivedSources/i386" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/DerivedSources" -include /var/folders/Lx/LxGi9FMQGWOuX5VCrtRNz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AcademicID_Check_Prefix-berphjmqovrejwgwntynkzdreyxx/AcademicID_Check_Prefix.pch -c "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ResultCell.m" -o "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/ResultCell.o"0#
+
+CCompileC "build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/ScanOverlayViewController.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ScanOverlayViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s400255871.303722
+e400255871.382635
+r1
+xCompileC
+xbuild/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/ScanOverlayViewController.o
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ScanOverlayViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ScanOverlayViewController.m400255871#400255871#0(0"0(0#0#87"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ScanOverlayViewController.m8611008288#2827"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-generated-files.hmap" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-own-target-headers.hmap" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-all-target-headers.hmap" -iquote "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-project-headers.hmap" "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator" -F../.. "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/../.." -F/Volumes/SHARKOON500/p2/app1 "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/include" -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/cpp/core/src -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/actions -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/parsedResults -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/resultParsers "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/DerivedSources/i386" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/DerivedSources" -include /var/folders/Lx/LxGi9FMQGWOuX5VCrtRNz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AcademicID_Check_Prefix-berphjmqovrejwgwntynkzdreyxx/AcademicID_Check_Prefix.pch -c "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ScanOverlayViewController.m" -o "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/ScanOverlayViewController.o"0#
+
+CCompileC "build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/main.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s400255871.298195
+e400255871.351926
+r1
+xCompileC
+xbuild/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/main.o
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/main.m400255871#400255871#0(0"0(0#0#55"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/main.m8615037920#2774"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-generated-files.hmap" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-own-target-headers.hmap" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-all-target-headers.hmap" -iquote "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-project-headers.hmap" "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator" -F../.. "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/../.." -F/Volumes/SHARKOON500/p2/app1 "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/include" -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/cpp/core/src -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/actions -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/parsedResults -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/resultParsers "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/DerivedSources/i386" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/DerivedSources" -include /var/folders/Lx/LxGi9FMQGWOuX5VCrtRNz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AcademicID_Check_Prefix-berphjmqovrejwgwntynkzdreyxx/AcademicID_Check_Prefix.pch -c "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/main.m" -o "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/AcademicID_CheckViewController.xib"
+s400255870.293784
+e400255870.761318
+r1
+xCompileXIB
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/AcademicID_CheckViewController.xib
+lSLF07#2@45"CompileXIB AcademicID_CheckViewController.xib400255870#400255870#0(0"0(0#0#83"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/AcademicID_CheckViewController.xib8608296896#713"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcademicID_CheckViewController.nib" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/AcademicID_CheckViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.xib"
+s400255870.294338
+e400255870.811488
+r1
+xCompileXIB
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.xib
+lSLF07#2@54"CompileXIB Classes/AcademicID_CheckView2Controller.xib400255870#400255870#0(0"0(0#0#92"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.xib8608060864#723"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcademicID_CheckView2Controller.nib" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.xib"
+s400255870.297118
+e400255870.774493
+r1
+xCompileXIB
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.xib
+lSLF07#2@54"CompileXIB Classes/AcademicID_CheckView3Controller.xib400255870#400255870#0(0"0(0#0#92"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.xib8607469216#723"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcademicID_CheckView3Controller.nib" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/MainWindow.xib"
+s400255870.293257
+e400255870.691956
+r1
+xCompileXIB
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib400255870#400255870#0(0"0(0#0#63"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/MainWindow.xib8608476864#673"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/MainWindow.nib" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ResultCell.xib"
+s400255870.295029
+e400255870.737165
+r1
+xCompileXIB
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ResultCell.xib
+lSLF07#2@25"CompileXIB ResultCell.xib400255870#400255870#0(0"0(0#0#63"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ResultCell.xib8607947296#673"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/ResultCell.nib" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ResultCell.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ScanOverlayViewController.xib"
+s400255870.313982
+e400255870.709813
+r1
+xCompileXIB
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ScanOverlayViewController.xib
+lSLF07#2@40"CompileXIB ScanOverlayViewController.xib400255870#400255870#0(0"0(0#0#78"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ScanOverlayViewController.xib8603726208#703"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/ScanOverlayViewController.nib" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ScanOverlayViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/AcadID Check.app/Icon-Small.png" Icon-Small.png
+s400255870.308672
+e400255870.316969
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AcadID Check.app/Icon-Small.png
+xIcon-Small.png
+lSLF07#2@19"Copy Icon-Small.png400255870#400255870#0(0"0(0#0#63"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Icon-Small.png8604567552#575"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Icon-Small.png" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app"0#
+
+CCpResource "build/Debug-iphonesimulator/AcadID Check.app/Icon-Small@2x.png" Icon-Small@2x.png
+s400255870.309646
+e400255870.325943
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AcadID Check.app/Icon-Small@2x.png
+xIcon-Small@2x.png
+lSLF07#2@22"Copy Icon-Small@2x.png400255870#400255870#0(0"0(0#0#66"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Icon-Small@2x.png8604335552#578"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Icon-Small@2x.png" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app"0#
+
+CCpResource "build/Debug-iphonesimulator/AcadID Check.app/Icon.png" Icon.png
+s400255870.303494
+e400255870.309560
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AcadID Check.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png400255870#400255870#0(0"0(0#0#57"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Icon.png8605843968#569"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Icon.png" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app"0#
+
+CCpResource "build/Debug-iphonesimulator/AcadID Check.app/Icon@2x.png" Icon@2x.png
+s400255870.305492
+e400255870.313889
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AcadID Check.app/Icon@2x.png
+xIcon@2x.png
+lSLF07#2@16"Copy Icon@2x.png400255870#400255870#0(0"0(0#0#60"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Icon@2x.png8605731616#572"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Icon@2x.png" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app"0#
+
+CCpResource "build/Debug-iphonesimulator/AcadID Check.app/camera.png" camera.png
+s400255870.310526
+e400255870.331385
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AcadID Check.app/camera.png
+xcamera.png
+lSLF07#2@15"Copy camera.png400255870#400255870#0(0"0(0#0#59"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/camera.png8604093920#571"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/camera.png" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app"0#
+
+CCpResource "build/Debug-iphonesimulator/AcadID Check.app/search.png" search.png
+s400255870.295630
+e400255870.301199
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AcadID Check.app/search.png
+xsearch.png
+lSLF07#2@15"Copy search.png400255870#400255870#0(0"0(0#0#59"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/search.png8607904832#571"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/search.png" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app"0#
+
+CCpResource "build/Debug-iphonesimulator/AcadID Check.app/settings_gear.png" settings_gear.png
+s400255870.296376
+e400255870.303394
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AcadID Check.app/settings_gear.png
+xsettings_gear.png
+lSLF07#2@22"Copy settings_gear.png400255870#400255870#0(0"0(0#0#66"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/settings_gear.png8607729984#578"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/settings_gear.png" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app"0#
+
+CCpResource "build/Debug-iphonesimulator/AcadID Check.app/zbar-back.png" ZBarSDK/Resources/zbar-back.png
+s400255870.298000
+e400255870.305394
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AcadID Check.app/zbar-back.png
+xZBarSDK/Resources/zbar-back.png
+lSLF07#2@36"Copy ZBarSDK/Resources/zbar-back.png400255870#400255870#0(0"0(0#0#80"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Resources/zbar-back.png8607207936#592"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Resources/zbar-back.png" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app"0#
+
+CCpResource "build/Debug-iphonesimulator/AcadID Check.app/zbar-help.html" ZBarSDK/Resources/zbar-help.html
+s400255870.298726
+e400255870.308561
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AcadID Check.app/zbar-help.html
+xZBarSDK/Resources/zbar-help.html
+lSLF07#2@37"Copy ZBarSDK/Resources/zbar-help.html400255870#400255870#0(0"0(0#0#81"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Resources/zbar-help.html8606986816#593"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Resources/zbar-help.html" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app"0#
+
+CCpResource "build/Debug-iphonesimulator/AcadID Check.app/zbar-helpicons.png" ZBarSDK/Resources/zbar-helpicons.png
+s400255870.299457
+e400255870.315231
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AcadID Check.app/zbar-helpicons.png
+xZBarSDK/Resources/zbar-helpicons.png
+lSLF07#2@41"Copy ZBarSDK/Resources/zbar-helpicons.png400255870#400255870#0(0"0(0#0#85"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Resources/zbar-helpicons.png8606469440#597"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Resources/zbar-helpicons.png" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app"0#
+
+CCpResource "build/Debug-iphonesimulator/AcadID Check.app/zbar-samples.png" ZBarSDK/Resources/zbar-samples.png
+s400255870.301314
+e400255870.310445
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AcadID Check.app/zbar-samples.png
+xZBarSDK/Resources/zbar-samples.png
+lSLF07#2@39"Copy ZBarSDK/Resources/zbar-samples.png400255870#400255870#0(0"0(0#0#83"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Resources/zbar-samples.png8606137344#595"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Resources/zbar-samples.png" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app"0#
+
+CGenerateDSYMFile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app.dSYM" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcadID Check"
+s400255871.482323
+e400255871.552869
+r1
+xGenerateDSYMFile
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app.dSYM
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcadID Check
+lSLF07#2@128"GenerateDSYMFile "build/Debug-iphonesimulator/AcadID Check.app.dSYM" "build/Debug-iphonesimulator/AcadID Check.app/AcadID Check"400255871#400255871#0(0"0(0#0#106"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcadID Check8609845760#496"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcadID Check" -o "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app.dSYM"0#
+
+CLd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcadID Check" normal i386
+s400255871.425321
+e400255871.482236
+r1
+xLd
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcadID Check
+xnormal
+xi386
+lSLF07#2@111"Link /Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcadID Check400255871#400255871#0(0"0(0#0#0"8610080512#1430"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator" "-L/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK" "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator" -F../.. "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/../.." -F/Volumes/SHARKOON500/p2/app1 -filelist "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/Objects-normal/i386/AcadID Check.LinkFileList" -mmacosx-version-min=10.6 -ObjC -all_load -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -framework AVFoundation -framework CoreMedia -framework CoreVideo -liconv -framework YAJLiOS -lzbar -framework QuartzCore -o "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/AcadID Check"0#
+
+CProcessInfoPlistFile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/Info.plist" AcademicID_Check-Info.plist
+s400255870.288241
+e400255870.293199
+r1
+xProcessInfoPlistFile
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/Info.plist
+xAcademicID_Check-Info.plist
+lSLF07#2@35"Process AcademicID_Check-Info.plist400255870#400255870#0(0"0(0#0#76"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/AcademicID_Check-Info.plist8609836160#596"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility AcademicID_Check-Info.plist -genpkginfo "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app/Info.plist"0#
+
+CProcessPCH /var/folders/Lx/LxGi9FMQGWOuX5VCrtRNz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AcademicID_Check_Prefix-berphjmqovrejwgwntynkzdreyxx/AcademicID_Check_Prefix.pch.gch AcademicID_Check_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s400255870.811577
+e400255871.298111
+r1
+xProcessPCH
+x/var/folders/Lx/LxGi9FMQGWOuX5VCrtRNz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AcademicID_Check_Prefix-berphjmqovrejwgwntynkzdreyxx/AcademicID_Check_Prefix.pch.gch
+xAcademicID_Check_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile AcademicID_Check_Prefix.pch400255870#400255871#0(0"0(0#0#76"/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/AcademicID_Check_Prefix.pch8607616192#2639"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-generated-files.hmap" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-own-target-headers.hmap" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-all-target-headers.hmap" -iquote "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/AcadID Check-project-headers.hmap" "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator" -F../.. "-F/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/../.." -F/Volumes/SHARKOON500/p2/app1 "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/include" -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/cpp/core/src -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/actions -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/parsedResults -I/Volumes/SHARKOON500/p2/app1/zxing-2.1/iphone/ZXingWidget/Classes/resultParsers "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/DerivedSources/i386" "-I/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphonesimulator/Academic ID Ιnspector.build/DerivedSources" -c "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/AcademicID_Check_Prefix.pch" -o /var/folders/Lx/LxGi9FMQGWOuX5VCrtRNz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AcademicID_Check_Prefix-berphjmqovrejwgwntynkzdreyxx/AcademicID_Check_Prefix.pch.gch0#
+
+CTouch "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app"
+s400255871.552970
+e400255871.555738
+r1
+xTouch
+x/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app
+lSLF07#2@99"Touch /Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app400255871#400255871#0(0"0(0#0#0"8614361088#369"    cd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphonesimulator/AcadID Check.app"0#
+

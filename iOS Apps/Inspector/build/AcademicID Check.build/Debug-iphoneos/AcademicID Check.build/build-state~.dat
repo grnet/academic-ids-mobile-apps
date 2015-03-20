@@ -1,0 +1,533 @@
+TAcademicID Check
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC11C42000000000020BF30
+t1287724098
+s2146096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004CC1107D00000000000C9AB0
+t1287721085
+s826032
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004CC11CDC0000000000245580
+t1287724252
+s2381184
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC10EF400000000003B8CB0
+t1287720692
+s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004CC110B500000000000E44B0
+t1287721141
+s935088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004CC110220000000000030DE0
+t1287720994
+s200160
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC1127D0000000000267530
+t1287721597
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libiconv.dylib
+c000000004CC1056200000000001FB100
+t1287718242
+s2076928
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/NSBundle+YAJL.h
+c00000000506F42EE000000000000090E
+t1349468910
+s2318
+i"YAJLParser.h"
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/NSObject+YAJL.h
+c00000000506F42EE0000000000001525
+t1349468910
+s5413
+i"YAJLGen.h"
+i"YAJLParser.h"
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/YAJL.h
+c00000000506F42EE0000000000001A1E
+t1349468910
+s6686
+i"YAJLParser.h"
+i"YAJLDocument.h"
+i"YAJLGen.h"
+i"NSObject+YAJL.h"
+i"NSBundle+YAJL.h"
+i<YAJL/YAJL.h>
+i<YAJLiOS/YAJL.h>
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/YAJLDocument.h
+c00000000506F42EE0000000000001C2B
+t1349468910
+s7211
+i"YAJLParser.h"
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/YAJLGen.h
+c00000000506F42EE000000000000102E
+t1349468910
+s4142
+i"yajl_gen.h"
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/YAJLParser.h
+c00000000506F42EE00000000000015D9
+t1349468910
+s5593
+i"yajl_parse.h"
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/yajl_common.h
+c00000000506F42EE0000000000000C3B
+t1349468910
+s3131
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/yajl_gen.h
+c00000000506F42EE0000000000001C28
+t1349468910
+s7208
+i"yajl_common.h"
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/Headers/yajl_parse.h
+c00000000506F42EE0000000000002132
+t1349468910
+s8498
+i"yajl_common.h"
+
+N/Volumes/SHARKOON500/p2/app1/YAJLiOS.framework/YAJLiOS
+c00000000506F42EE00000000000AF6BC
+t1349468910
+s718524
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/AcademicID_CheckViewController.xib
+c00000000511FB38C0000000000006E4F
+t1361032076
+s28239
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/AcademicID_Check_Prefix.pch
+c0000000050AFBF9800000000000000C9
+t1353695128
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ResultCell.m
+c00000000511EA3F800000000000002DA
+t1360962552
+s730
+i"ResultCell.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckAppDelegate.h
+c00000000514CAA840000000000000401
+t1363978884
+s1025
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckAppDelegate.m
+c00000000514CAFFC0000000000000CFD
+t1363980284
+s3325
+i"AcademicID_CheckAppDelegate.h"
+i"AcademicID_CheckViewController.h"
+i"AcademicID_CheckView2Controller.h"
+i"AcademicID_CheckView3Controller.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.h
+c00000000514CADD20000000000000446
+t1363979730
+s1094
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.m
+c00000000514CAF1000000000000020A2
+t1363980048
+s8354
+i"AcademicID_CheckView2Controller.h"
+i"AcademicID_CheckAppDelegate.h"
+i"YAJLiOS/YAJL.h"
+i"ResultCell.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.xib
+c00000000514CAFC20000000000009236
+t1363980226
+s37430
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.h
+c00000000514CAC7C0000000000000130
+t1363979388
+s304
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.m
+c00000000514CAD4000000000000006AF
+t1363979584
+s1711
+i"AcademicID_CheckView3Controller.h"
+i"AcademicID_CheckAppDelegate.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.xib
+c00000000514D57760000000000007EAB
+t1364023158
+s32427
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckViewController.h
+c00000000511F49C80000000000000219
+t1361005000
+s537
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckViewController.m
+c00000000511F4C3400000000000008C6
+t1361005620
+s2246
+i"AcademicID_CheckViewController.h"
+i"AcademicID_CheckAppDelegate.h"
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/MainWindow.xib
+c00000000514D564E00000000000080BD
+t1364022862
+s32957
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ResultCell.h
+c00000000511EA3EC000000000000019B
+t1360962540
+s411
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ResultCell.xib
+c00000000511EAC340000000000004F49
+t1360964660
+s20297
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Resources/zbar-back.png
+c000000004E40215E000000000000013F
+t1312825694
+s319
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Resources/zbar-help.html
+c000000004E40215E0000000000000D37
+t1312825694
+s3383
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Resources/zbar-helpicons.png
+c000000004E40215E00000000000047AE
+t1312825694
+s18350
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/Resources/zbar-samples.png
+c000000004E40215E000000000000049D
+t1312825694
+s1181
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ZBarSDK/libzbar.a
+c000000004E40215E00000000002E5F0C
+t1312825694
+s3038988
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv6/AcademicID Check
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv6/AcademicID Check.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv6/AcademicID_CheckAppDelegate.o
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv6/AcademicID_CheckView2Controller.o
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv6/AcademicID_CheckView3Controller.o
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv6/AcademicID_CheckViewController.o
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv6/ResultCell.o
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv7/AcademicID Check
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv7/AcademicID Check.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv7/AcademicID_CheckAppDelegate.o
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv7/AcademicID_CheckView2Controller.o
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv7/AcademicID_CheckView3Controller.o
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv7/AcademicID_CheckViewController.o
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv7/ResultCell.o
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app.dSYM
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/AcademicID Check
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/AcademicID_CheckView2Controller.nib
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/AcademicID_CheckView3Controller.nib
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/AcademicID_CheckViewController.nib
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/Info.plist
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/MainWindow.nib
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/PkgInfo
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/ResourceRules.plist
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/ResultCell.nib
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/search.png
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/settings_gear.png
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/zbar-back.png
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/zbar-help.html
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/zbar-helpicons.png
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/zbar-samples.png
+t2
+s0
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/main.m
+c0000000050AFBF980000000000000177
+t1353695128
+s375
+i<UIKit/UIKit.h>
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/search.png
+c00000000513AED36000000000000276A
+t1362816310
+s10090
+
+N/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/settings_gear.png
+c00000000514C756600000000000009DD
+t1363965286
+s2525
+
+N/var/folders/Lx/LxGi9FMQGWOuX5VCrtRNz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AcademicID_Check_Prefix-cljrohgdwrrjpafeeymxwwjydsns/AcademicID_Check_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Lx/LxGi9FMQGWOuX5VCrtRNz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AcademicID_Check_Prefix-elpiejckqafzjghksrciatyldwzf/AcademicID_Check_Prefix.pch.gch
+t2
+s0
+
+NAcademicID_Check-Info.plist
+c0000000050AFBF98000000000000038D
+t1353695128
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies393584301#393584301#0(133"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain1(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain393584301#18446744073709551615#0#0(1@0"0(0#1#0"32088628383449192#0"0#
+
+CCompileC "build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv6/AcademicID_CheckAppDelegate.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv6/AcademicID_CheckView2Controller.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv6/AcademicID_CheckView3Controller.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv6/AcademicID_CheckViewController.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv6/ResultCell.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ResultCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv6/main.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv7/AcademicID_CheckAppDelegate.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv7/AcademicID_CheckView2Controller.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv7/AcademicID_CheckView3Controller.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv7/AcademicID_CheckViewController.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv7/ResultCell.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/../ResultCell.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv7/main.o" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/AcademicID_CheckViewController.xib"
+r0
+
+CCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView2Controller.xib"
+r0
+
+CCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/Classes/AcademicID_CheckView3Controller.xib"
+r0
+
+CCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/MainWindow.xib"
+r0
+
+CCompileXIB "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/ResultCell.xib"
+r0
+
+CCopyPNGFile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/search.png" search.png
+r0
+
+CCopyPNGFile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/settings_gear.png" settings_gear.png
+r0
+
+CCopyPNGFile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/zbar-back.png" ZBarSDK/Resources/zbar-back.png
+r0
+
+CCopyPNGFile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/zbar-helpicons.png" ZBarSDK/Resources/zbar-helpicons.png
+r0
+
+CCopyPNGFile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/zbar-samples.png" ZBarSDK/Resources/zbar-samples.png
+r0
+
+CCpResource "build/Debug-iphoneos/AcademicID Check.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCpResource "build/Debug-iphoneos/AcademicID Check.app/zbar-help.html" ZBarSDK/Resources/zbar-help.html
+r0
+
+CCreateUniversalBinary "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/AcademicID Check" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app.dSYM" "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/AcademicID Check"
+r0
+
+CLd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv6/AcademicID Check" normal armv6
+r0
+
+CLd "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/AcademicID Check.build/Debug-iphoneos/AcademicID Check.build/Objects-normal/armv7/AcademicID Check" normal armv7
+r0
+
+CProcessInfoPlistFile "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app/Info.plist" AcademicID_Check-Info.plist
+r0
+
+CProcessPCH /var/folders/Lx/LxGi9FMQGWOuX5VCrtRNz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AcademicID_Check_Prefix-cljrohgdwrrjpafeeymxwwjydsns/AcademicID_Check_Prefix.pch.gch AcademicID_Check_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Lx/LxGi9FMQGWOuX5VCrtRNz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AcademicID_Check_Prefix-elpiejckqafzjghksrciatyldwzf/AcademicID_Check_Prefix.pch.gch AcademicID_Check_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Volumes/SHARKOON500/p2/app1/v1/AcademicID Check/build/Debug-iphoneos/AcademicID Check.app"
+r0
+

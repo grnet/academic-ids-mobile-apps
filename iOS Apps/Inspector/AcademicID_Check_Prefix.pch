@@ -1,0 +1,12 @@
+//
+// Prefix header for all source files of the 'AcademicID Check' target in the 'AcademicID Check' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import "ZBarSDK.h"
+    #import "AcademicID_CheckAppConstants.h"
+#endif
+
+//#define NSLog(args, ...)
