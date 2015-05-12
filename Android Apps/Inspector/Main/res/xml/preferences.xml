@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/menu_settings">
+        <PreferenceScreen
+                android:title="@string/title_change_password"
+                android:summary="@string/msg_change_password">
+            <intent android:action="android.intent.action.VIEW"
+                    android:targetPackage="gr.grnet.academicid.inspector"
+                    android:targetClass="gr.grnet.academicid.inspector.ChangePassword"/>
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>

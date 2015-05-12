@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Academic ID Merchant</string>
+
+    <string name="lbl_username">Username:</string>
+    <string name="lbl_password">Password:</string>
+    <string name="lbl_sign_in">Sign In</string>
+
+    <string name="title_no_net_available">No Network Connection</string>
+    <string name="msg_no_net_available">To enable network connection touch Next</string>
+    <string name="action_next">Next</string>
+    <string name="action_close">Close</string>
+
+    <string name="msg_wait">Please wait…</string>
+    <string name="msg_incorrect_credentials">Incorrect username or password</string>
+    <string name="msg_no_camera_available">Rear Facing Camera Unavailable</string>
+
+    <string name="lbl_active_offers">Active Offers</string>
+    <string name="lbl_inactive_offers">Inactive Offers</string>
+    <string name="lbl_no_offers">No Available Offers</string>
+    <string name="msg_error_retrieving_offers">Error trying to retrieve available offers</string>
+
+    <string name="lbl_available_from">Available from:</string>
+    <string name="lbl_available_to">To:</string>
+    <string name="lbl_eligible_to">Eligible to:</string>
+    <string name="msg_eligible_for_offer">Academic Id: SERIAL_TAG\nEligible for this offer</string>
+    <string name="msg_not_eligible_for_offer">Academic Id: SERIAL_TAG\nNot eligible for this offer</string>
+    <string name="msg_invalid_input">The input is not a valid academic ID</string>
+    <string name="msg_error_validating_offer">Error trying to validate offer</string>
+
+    <string name="lbl_scan_qr">Scan QR Code</string>
+    <string name="lbl_enter_serial">Enter Serial Number</string>
+    <string name="lbl_exit">Press again to exit</string>
+
+    <string name="menu_offers">Active Offers</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="title_change_password">Change Password</string>
+    <string name="msg_change_password">Change the user password</string>
+
+    <string name="lbl_current_password">Current Password:</string>
+    <string name="lbl_new_password">New Password:</string>
+    <string name="lbl_new_password_confirmation">Confirm New Password:</string>
+    <string name="lbl_cancel">Cancel</string>
+    <string name="lbl_confirm">Confirm</string>
+
+    <string name="msg_password_change_required">Required password change</string>
+    <string name="msg_incorrect_current_password">Current password is incorrect</string>
+    <string name="msg_new_passwords_dont_match">The new passwords don\'t match</string>
+    <string name="msg_password_too_short">Password must contain at least 4 characters</string>
+    <string name="msg_new_current_password_same">New and current password should not be the same</string>
+    <string name="msg_error_changing_password">Error trying to update user password</string>
+</resources>

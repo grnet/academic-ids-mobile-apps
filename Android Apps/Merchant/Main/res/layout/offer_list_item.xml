@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:padding="10dp"
+              android:paddingLeft="10dp"
+              android:paddingRight="10dp">
+
+    <!-- Title Label -->
+    <TextView
+            android:id="@+id/txtv_offer_item_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="2dp"
+            android:paddingTop="6dp"
+            android:textAppearance="@style/list_title"/>
+
+    <!-- Description label -->
+    <TextView
+            android:id="@+id/txtv_offer_item_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="2dp"
+            android:textAppearance="@style/list_item"/>
+</LinearLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Academic ID Inspector</string>
+
+    <string name="lbl_username">Όνομα Χρήστη:</string>
+    <string name="lbl_password">Κωδικός Πρόσβασης:</string>
+    <string name="lbl_sign_in">Είσοδος</string>
+
+    <string name="msg_wait">Παρακαλώ περιμένετε…</string>
+    <string name="msg_incorrect_credentials">Το όνομα Χρήστη ή ο Κωδικός Πρόσβασης είναι εσφαλμένα</string>
+    <string name="msg_no_camera_available">Η κάμερα δεν είναι διαθέσιμη</string>
+
+    <string name="title_no_net_available">Δίκτυο μη Διαθέσιμο</string>
+    <string name="msg_no_net_available">Για ενεργοποίηση πιέστε Επόμενο</string>
+    <string name="action_next">Επόμενο</string>
+    <string name="action_close">Τερματισμός</string>
+
+    <string name="lbl_init_message">Σαρώστε τον κωδικό QR ή εισάγετε τον σειριακό αριθμό</string>
+    <string name="lbl_scan_qr">Σάρωση QR</string>
+    <string name="lbl_enter_serial">Εισαγωγή Σειριακού Αρ.</string>
+    <string name="lbl_exit">Πιέστε ξανά για έξοδο</string>
+
+    <string name="lbl_valid">ΕΓΚΥΡΟ</string>
+    <string name="lbl_invalid">ΑΚΥΡΟ</string>
+    <string name="lbl_serial_no">Σειριακός Αριθμός:</string>
+    <string name="lbl_name">Όνομα:</string>
+    <string name="lbl_university">Έδρα Σχολής:</string>
+    <string name="lbl_residence">Κάτοικος:</string>
+    <string name="lbl_errorCode">Αιτιολογία:</string>
+
+    <string name="msg_invalid_input">Το στοιχείο εισόδου δεν αντιστοιχεί σε έγκυρη ακαδημαϊκή ταυτότητα</string>
+    <string name="msg_error_inspecting_academicId">Παρουσιάστηκε σφάλμα κατά την επιθεώρησης της ακαδημαϊκής ταυτότητας</string>
+
+    <string name="menu_settings">Ρυθμίσεις</string>
+
+    <string name="title_change_password">Αλλαγή Κωδικού Πρόσβασης</string>
+    <string name="msg_change_password">Αλλαγή του κωδικού πρόσβασης του χρήστη</string>
+
+    <string name="lbl_current_password">Τρέχων Κωδικός Πρόσβασης:</string>
+    <string name="lbl_new_password">Νέος Κωδικός Πρόσβασης:</string>
+    <string name="lbl_new_password_confirmation">Επιβεβαίωση Νέου Κωδικού:</string>
+    <string name="lbl_cancel">Ακύρωση</string>
+    <string name="lbl_confirm">Επιβεβαίωση</string>
+
+    <string name="msg_password_change_required">Απαιτείται αλλαγή του κωδικού πρόσβασης</string>
+    <string name="msg_incorrect_current_password">Ο τρέχων κωδικός πρόσβασης είναι λάθος</string>
+    <string name="msg_new_passwords_dont_match">Οι νέοι κωδικοί πρόσβασης δεν είναι ίδιοι</string>
+    <string name="msg_password_too_short">Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον 4 χαρακτήρες</string>
+    <string name="msg_new_current_password_same">Ο νέος και ο τρέχον κωδικός πρόσβασης δεν πρέπει να είναι ίδιοι</string>
+    <string name="msg_error_changing_password">Παρουσιάστηκε σφάλμα κατα την διαδικασία αποθήκευσης του νέου κωδικού πρόσβασης</string>
+</resources>
